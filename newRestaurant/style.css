@@ -2,3 +2,15 @@ body{
     color: black;
     background-color: grey;
 }
+
+.topSection {
+    text-align: center;
+}
+
+
+
+.middleSection {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
